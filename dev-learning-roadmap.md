@@ -23,7 +23,6 @@
 - [ ] [イラスト図解式 この一冊で全部わかるサーバーの基本 第 2 版](https://www.amazon.co.jp/dp/B09V73QG1B/?coliid=I3BQ8TMJV24STM&colid=A2W21XC69JS1&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it)
 - [ ] [イラスト図解式 この一冊で全部わかるセキュリティの基本](https://www.amazon.co.jp/dp/B0756SS7N3/?coliid=I1KB3H83JGLXOM&colid=A2W21XC69JS1&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it)
 - [ ] [Web サイト管理のきほん 業務と技術の知識が身につく](https://www.amazon.co.jp/dp/4297129221/?coliid=I3IB44I211RUA3&colid=A2W21XC69JS1&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
-- [ ] [Web API: The Good Parts](https://www.amazon.co.jp/dp/4873116864?ref_=cm_sw_r_apin_dp_PS9VSW3GM9H9H7VMENZR)
 
 ## Web プログラミング
 
