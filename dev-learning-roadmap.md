@@ -53,7 +53,7 @@
 - [ ] [わたしとぼくの PL/pgSQL](https://www.amazon.co.jp/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%A8%E3%81%BC%E3%81%8F%E3%81%AEPL-pgSQL-%E6%8A%80%E8%A1%93%E3%81%AE%E6%B3%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E7%9B%AE%E9%BB%92-%E8%81%96/dp/484439827X)
 - [ ] [達人に学ぶ SQL 徹底指南書 第 2 版 初級者で終わりたくないあなたへ](https://www.amazon.co.jp/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6SQL%E5%BE%B9%E5%BA%95%E6%8C%87%E5%8D%97%E6%9B%B8-%E7%AC%AC2%E7%89%88-%E5%88%9D%E7%B4%9A%E8%80%85%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8-CodeZine-BOOKS/dp/4798157821)
 - [ ] [達人に学ぶ DB 設計 徹底指南書 初級者で終わりたくないあなたへ](https://www.amazon.co.jp/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6DB%E8%A8%AD%E8%A8%88-%E5%BE%B9%E5%BA%95%E6%8C%87%E5%8D%97%E6%9B%B8-%E5%88%9D%E7%B4%9A%E8%80%85%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8-%E3%83%9F%E3%83%83%E3%82%AF/dp/4798124702/ref=pd_lpo_sccl_1/358-4619609-3547532?pd_rd_w=Y8ylb&content-id=amzn1.sym.d769922e-188a-40cc-a180-3315f856e8d6&pf_rd_p=d769922e-188a-40cc-a180-3315f856e8d6&pf_rd_r=GJWG12DQG4BDTKT20REX&pd_rd_wg=fCMLy&pd_rd_r=97e63b69-6e13-4ad8-b450-bf72ca3766e9&pd_rd_i=4798124702&psc=1)
-- [ ] [実践Redis入門 技術の仕組みから現場の活用まで](実践Redis入門 技術の仕組みから現場の活用まで https://amzn.asia/d/deT1Lbd)
+- [ ] [実践Redis入門 技術の仕組みから現場の活用まで](https://amzn.asia/d/deT1Lbd)
 
 ## Web デザイン
 
