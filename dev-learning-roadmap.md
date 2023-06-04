@@ -44,6 +44,8 @@
   - [ ] 📗 [Udemy | Learn tRPC, NextJs & Prisma by building an ultimate blog app](https://www.udemy.com/course/learn-trpc-nextjs-prisma/)
 
 - その他
+  - [ ] [tRPC入門―型安全なWebアプリケーションを効率よくつくる](https://techbookfest.org/product/1Rsbs8XcjtyHxjguptBEzU?productVariantID=nzF4TL2ZSzgC45g7gnf3S5)
+  - [ ] [tRPCとPrismaによるバックエンド開発入門](https://techbookfest.org/product/9xk8G0ZQxAmp4esHg4Tatc?productVariantID=9xUezidZ39UPBEuRKUSQRs)
   - [ ] [実践 Svelte 入門 (エンジニア選書) ](https://www.amazon.co.jp/dp/4297134950/?coliid=I1FNA4XV48VZOM&colid=31MB3TDIL6DCM&psc=1&ref_=list_c_wl_gv_ov_lig_pi_dp)
     - Svelte のキャッチアップも必要だと感じたら読む
 
