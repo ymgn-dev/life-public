@@ -64,7 +64,5 @@
 
 ## Web デザイン
 
-Penpot に興味があるので Docker で立ち上げて何か作ってみる。
-
 - [ ] [Penpot YouTube チャンネル](https://www.youtube.com/channel/UCAqS8G72uv9P5HG1IfgnQ9g)
 - [ ] 📗 [すぐに作れる ずっと使える Inkscapeのすべてが身に付く本](https://www.amazon.co.jp/%E3%81%99%E3%81%90%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B-%E3%81%9A%E3%81%A3%E3%81%A8%E4%BD%BF%E3%81%88%E3%82%8B-Inkscape%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%81%8C%E8%BA%AB%E3%81%AB%E4%BB%98%E3%81%8F%E6%9C%AC-%E9%A3%AF%E5%A1%9A-%E5%B0%86%E5%BC%98/dp/4297105853)
