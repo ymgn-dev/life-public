@@ -39,14 +39,14 @@
   - [ ] [プロを目指す人のための TypeScript 入門 安全なコードの書き方から高度な型の使い方まで (Software Design plus) ](https://direct.gihyo.jp/view/item/000000002672)
 
 - React / Next.js
-  - [ ] [りあクト！ TypeScript で始めるつらくない React 開発 第 4 版【① 言語・環境編】](https://booth.pm/ja/items/2368045?_ga=2.19830011.295833508.1684250117-1973564341.1684250117)
-  - [ ] [りあクト！ TypeScript で始めるつらくない React 開発 第 4 版【② React 基礎編】](https://oukayuka.booth.pm/items/2368019)
-  - [ ] [りあクト！ TypeScript で始めるつらくない React 開発 第 4 版【③ React 応用編】](https://booth.pm/ja/items/2367992?_ga=2.12081015.295833508.1684250117-1973564341.1684250117)
+  - [ ] 📗 [りあクト！ TypeScript で始めるつらくない React 開発 第 4 版【① 言語・環境編】](https://booth.pm/ja/items/2368045?_ga=2.19830011.295833508.1684250117-1973564341.1684250117)
+  - [ ] 📗 [りあクト！ TypeScript で始めるつらくない React 開発 第 4 版【② React 基礎編】](https://oukayuka.booth.pm/items/2368019)
+  - [ ] 📗 [りあクト！ TypeScript で始めるつらくない React 開発 第 4 版【③ React 応用編】](https://booth.pm/ja/items/2367992?_ga=2.12081015.295833508.1684250117-1973564341.1684250117)
+  - [ ] 📗 [【2023年最新】React(v18)完全入門ガイド｜Hooks、Next.js、Redux、TypeScript](https://www.udemy.com/course/react-complete-guide/)
 
 - T3 Stack
   - [ ] 📗 [tRPC入門―型安全なWebアプリケーションを効率よくつくる](https://techbookfest.org/product/1Rsbs8XcjtyHxjguptBEzU?productVariantID=nzF4TL2ZSzgC45g7gnf3S5)
   - [ ] 📗 [tRPCとPrismaによるバックエンド開発入門](https://techbookfest.org/product/9xk8G0ZQxAmp4esHg4Tatc?productVariantID=9xUezidZ39UPBEuRKUSQRs)
-  - [ ] 📗 [Udemy | Learn tRPC, NextJs & Prisma by building an ultimate blog app](https://www.udemy.com/course/learn-trpc-nextjs-prisma/)
 
 - その他
   - [ ] [実践 Svelte 入門 (エンジニア選書) ](https://www.amazon.co.jp/dp/4297134950/?coliid=I1FNA4XV48VZOM&colid=31MB3TDIL6DCM&psc=1&ref_=list_c_wl_gv_ov_lig_pi_dp)
@@ -56,11 +56,9 @@
 
 - [ ] 📗 [SQL 第 2 版 ゼロからはじめるデータベース操作](https://www.seshop.com/product/detail/20276?utm_source=sebook&utm_medium=organic)
 - [ ] 📗 [PostgreSQL 徹底入門 第 4 版 インストールから機能・仕組み、アプリ作り、管理・運用まで](https://www.amazon.co.jp/PostgreSQL%E5%BE%B9%E5%BA%95%E5%85%A5%E9%96%80-%E7%AC%AC4%E7%89%88-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E6%A9%9F%E8%83%BD%E3%83%BB%E4%BB%95%E7%B5%84%E3%81%BF%E3%80%81%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E3%82%8A%E3%80%81%E7%AE%A1%E7%90%86%E3%83%BB%E9%81%8B%E7%94%A8%E3%81%BE%E3%81%A7-%E8%BF%91%E8%97%A4-%E9%9B%84%E5%A4%AA/dp/4798160431)
-- [ ] 📗 [Udemy | SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
 - [ ] 📗 [わたしとぼくの PL/pgSQL](https://www.amazon.co.jp/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%A8%E3%81%BC%E3%81%8F%E3%81%AEPL-pgSQL-%E6%8A%80%E8%A1%93%E3%81%AE%E6%B3%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E7%9B%AE%E9%BB%92-%E8%81%96/dp/484439827X)
 - [ ] [達人に学ぶ SQL 徹底指南書 第 2 版 初級者で終わりたくないあなたへ](https://www.amazon.co.jp/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6SQL%E5%BE%B9%E5%BA%95%E6%8C%87%E5%8D%97%E6%9B%B8-%E7%AC%AC2%E7%89%88-%E5%88%9D%E7%B4%9A%E8%80%85%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8-CodeZine-BOOKS/dp/4798157821)
 - [ ] [達人に学ぶ DB 設計 徹底指南書 初級者で終わりたくないあなたへ](https://www.amazon.co.jp/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6DB%E8%A8%AD%E8%A8%88-%E5%BE%B9%E5%BA%95%E6%8C%87%E5%8D%97%E6%9B%B8-%E5%88%9D%E7%B4%9A%E8%80%85%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8-%E3%83%9F%E3%83%83%E3%82%AF/dp/4798124702/ref=pd_lpo_sccl_1/358-4619609-3547532?pd_rd_w=Y8ylb&content-id=amzn1.sym.d769922e-188a-40cc-a180-3315f856e8d6&pf_rd_p=d769922e-188a-40cc-a180-3315f856e8d6&pf_rd_r=GJWG12DQG4BDTKT20REX&pd_rd_wg=fCMLy&pd_rd_r=97e63b69-6e13-4ad8-b450-bf72ca3766e9&pd_rd_i=4798124702&psc=1)
-- [ ] [実践Redis入門 技術の仕組みから現場の活用まで](https://amzn.asia/d/deT1Lbd)
 
 ## Web デザイン
 
