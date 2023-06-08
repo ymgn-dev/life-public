@@ -36,7 +36,7 @@
   - [ ] 📗 [Tailwind CSS まとめ Advanced！新世界へ](https://booth.pm/ja/items/3039023)
 
 - TypeScript
-  - [ ] [プロを目指す人のための TypeScript 入門 安全なコードの書き方から高度な型の使い方まで (Software Design plus) ](https://direct.gihyo.jp/view/item/000000002672)
+  - [ ] 📗 [プロを目指す人のための TypeScript 入門 安全なコードの書き方から高度な型の使い方まで (Software Design plus) ](https://direct.gihyo.jp/view/item/000000002672)
 
 - React / Next.js
   - [ ] 📗 [りあクト！ TypeScript で始めるつらくない React 開発 第 4 版【① 言語・環境編】](https://booth.pm/ja/items/2368045?_ga=2.19830011.295833508.1684250117-1973564341.1684250117)
