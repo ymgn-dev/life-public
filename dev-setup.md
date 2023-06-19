@@ -3,19 +3,24 @@
 ## コーディング
 
 - Ubuntu
-- Zsh
-- WezTerm
-- tmux
-- Neovim
-- Lazygit
-- ghq
-- peco
-- asdf
+- ターミナル
+  - Zsh
+  - WezTerm
+  - tmux
+  - Neovim
+  - gitui
+  - ghq
+  - peco
+  - asdf
+- GUI
+  - TablePlus
+  - GitKraken
 
 ## コミュニケーション
 
 - Slack
 - Discord
+- Thunderbird Mail
 
 ## ウェブブラウザ
 
@@ -24,7 +29,6 @@
 ## デザイン
 
 - Figma
-- Penpot (Docker でセルフホストして使用)
 - Inkscape
 
 ## プロジェクト管理
@@ -32,6 +36,10 @@
 - GitHub
 - Linear
 - Notion
+
+## その他
+
+- Thorium (ブックリーダー)
 
 ## ハードウェア
 
