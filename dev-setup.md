@@ -2,7 +2,7 @@
 
 | カテゴリ | アイテム |
 | --- | --- |
-| コーディング | Ubuntu, Zsh, WezTerm, tmux, Neovim, gitui, ghq, peco, asdf |
+| コーディング | Ubuntu, Zsh, WezTerm, tmux, Neovim, ghq, peco, asdf |
 | 開発補助 | TablePlus, GitKraken |
 | コミュニケーション | Slack, Discord, Thunderbird Mail |
 | Web ブラウザ | Google Chrome |
